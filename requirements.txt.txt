@@ -1,0 +1,3 @@
+We are currently in the final testing phases of the BrazilianBirds project. This stage involves rigorous testing, bug fixes, and performance optimizations to ensure the highest accuracy and reliability in bird classification.
+
+come back soon :)
