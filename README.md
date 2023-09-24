@@ -39,11 +39,11 @@ BrazilianBirds is a tool developed to assist birdwatching enthusiasts, scientist
    ( soon )
 
 ## Usage
-Load an image containing a common Brazilian bird species in the application's interface.
+1. Load an image containing a common Brazilian bird species in the application's interface.
 
-Wait for automatic detection and classification of the species.
+2. Wait for automatic detection and classification of the species.
 
-Explore detailed information about the identified species.
+3. Explore detailed information about the identified species.
 
-Enjoy exploring the richness of Brazilian avifauna!
+4. Enjoy exploring the richness of Brazilian avifauna!
    
